@@ -2,7 +2,7 @@
 ![Logo](https://img.freepik.com/vector-gratis/plantilla-logotipo-criptomineria-degradado_23-2149390437.jpg)
 
 
-## Script de Python que extrae datos de la pagina oficial Yahoo Finance y Coinmarketcap, para programar un Robot automatizado que pueda decidir la compra o venta de Bitcoin en tiempo real.
+## Python script that extracts data from the official Yahoo Finance and Coinmarketcap website, to program an automated Robot that can decide the purchase or sale of Bitcoin in real time.
 ## Features
 
 - **Data collection:** Extracting historical and current Bitcoin price data and defining global variables
