@@ -1,5 +1,5 @@
 ## ROBOT_TRADING_PYTHON
-![Logo](https://img.freepik.com/vector-gratis/plantilla-logotipo-criptomineria-degradado_23-2149390437.jpg)
+![Logo](https://cdn-icons-png.flaticon.com/128/11313/11313614.png)
 
 
 ## Python script that extracts data from the official Yahoo Finance and Coinmarketcap website, to program an automated Robot that can decide the purchase or sale of Bitcoin in real time.
